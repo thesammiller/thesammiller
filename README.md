@@ -1,6 +1,8 @@
 # thesammiller
 
-TV maker. 
+TV maker. Writer for cable, broadcast and streaming. Exploring real-time animation with Unity. 
+Looking for the Venn diagram of motion-capture and machine-learning.
+Studying for a Masters of Computer Science at Vanderbilt University, Class of '22.
 
 IMDB: https://www.imdb.com/name/nm4122461/.  
 American Airness https://www.youtube.com/watch?v=PkVhe_9rML0.  
